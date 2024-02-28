@@ -80,4 +80,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 OUTPUT
+
 ![image](https://github.com/sanjeevkumarray/-English_To_French_Translation/assets/53333326/9fb325b2-419d-498e-a3cf-4b07b5361522)
